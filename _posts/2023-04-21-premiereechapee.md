@@ -25,13 +25,13 @@ Il fait nuit. Lama se demande s'il aime vraiment la randonnée dans le noir, éc
 Et puis Hibou va mieux. La lune apparaît derrière les sommets qui la cachaient : un croissant. Si fin. Si élégant.  
 Les pics se dessinent à l'horizon. Le Piton des neiges les surveille, le gros Morne aussi.   
 
-<img src="../_assets/echapee/one.jpg" alt="one" title="one" width="50%" height="50%">
+<img src="../docs/assets/echapee/one.jpg" alt="one" title="one" width="50%" height="50%">
 
 La progression se fait sur une crête, le vide est proche.  
 Suivent les premières lumières : du violet. Du rose. Du rouge, qui s'intensifie au fil des minutes.  
 Le soleil fait son apparition. Majestueux. Comme toujours. Ça se la pète un peu, un soleil, après une nuit si humble.  
 
-<img src="../_assets/echapee/two.jpg" alt="two" title="two" width="50%" height="50%">
+<img src="../docs/assets/echapee/two.jpg" alt="two" title="two" width="50%" height="50%">
 
 Lama gambade. Il est tout heureux. La pente est douce, mais les dénivelés sont là. Et surtout ... les cailloux. Quel enfer que ces cailloux. Les dernières mètres jusqu'au sommet deviennent un vrai effort : la fatigue, la caillasse, le manque de sommeil. Hibou est vaillant. Il met un pied devant l'autre, et ne s'arrête pas. Lama reste à ses côtés, mais lui aussi en a marre. Il veut arriver. Alors il accélère le pas : plus vite l'arrivée, plus vite le repos. Et le repas !  
 
@@ -41,12 +41,12 @@ Sur la droite : Cilaos, dans les nuages.
 On contemple longtemps. On mange. On boit. On a froid, on remet des couches.  
 Lama et Hibou sont heureux.  
 
-<img src="../_assets/echapee/three.jpg" alt="three" title="three" width="50%" height="50%">
+<img src="../docs/assets/echapee/three.jpg" alt="three" title="three" width="50%" height="50%">
 
 La descente est avec vue :  Mafate, en contrebas, se dévoile, entre les nuages. Lama se dit qu'il aimerait aller y marcher des jours et des jours. Ça a l'air si préservé.  
 Lama et Hibou apprennent ces nouveaux reliefs : le piton tortue, le piton cabris, et les autres. Seul Lama est persuadé que le piton tortue dessine réellement une tortue. Il voit de manière très clair, la carapasse, le cou, la tête du reptile.  
 
-<img src="../_assets/echapee/four.jpg" alt="four" title="four" width="50%" height="50%">
+<img src="../docs/assets/echapee/four.jpg" alt="four" title="four" width="50%" height="50%">
 
 Les dernières heures ne passent pas vite. On se pose souvent. On profite de la vue. On s'attend. On prend son temps.  
 Et puis toujours ces cailloux qui labourent les pieds.  
