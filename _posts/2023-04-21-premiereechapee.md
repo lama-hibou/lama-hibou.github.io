@@ -9,14 +9,15 @@ Au décours d'une partie, on leur propose une marche. Au Grand Bénare.
 Lama a hâte de gambader, mais attend la réaction de Hibou, quand on leur annonce les 900 mètres de dénivelé. Ce dernier ne se laisse pas démonter : on ira marcher, et on atteindra le sommet au lever du soleil !
 
 # L'histoire de l'asencension du deuxième sommet de l'île
+<pre>
 Lever : minuit  
-Départ : 1h30  
-Lever du soleil : 6h30  
+Départ : 03h30  
+Lever du soleil : 06h30  
 Température : 10°C   
 Altitude de départ : 2200m (Maïdo)  
 Altitude d'arrivée : 2898m  
 Dénivelé annoncé : 900m  
-
+</pre>
   
 3h30 : arrivés au début du chemin.  
 Hibou titube en sortant de la voiture. Tant de lacets pour arriver au Maïdo ...  
