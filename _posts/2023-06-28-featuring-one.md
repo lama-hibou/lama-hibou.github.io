@@ -1,6 +1,6 @@
 ---
 title: Featuring C et D
-date: 2023-04-11
+date: 2023-06-28
 draft: true
 ---
 
