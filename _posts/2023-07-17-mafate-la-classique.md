@@ -4,7 +4,6 @@ date: 2023-07-17
 draft: true
 ---
 
-# Mafate, la classique
 
 Deuxième tour dans Mafate pour Hibou et Lama qui ont un nouveau compagnon de route (A.) pour quelques semaines !
 
@@ -41,7 +40,7 @@ Avouons-le maintenant : ils ne sont pas prêts d’oublier ces dernières heures
 Et enfin, l’arrivée au gîte ! 
 <br />
 
-<img src="/assets/mafatelaclassique/gite.jpg" alt="gite" title="gite" width="50%" height="50%">
+<img src="/assets/mafatelaclassique/gite.jpeg" alt="gite" title="gite" width="50%" height="50%">
 
 <br />
 
@@ -50,7 +49,7 @@ Hibou part siester 2h, pendant que Lama et A. passent sous la douche froide. Ces
 La soirée, outre le repas créole généreux, offre un coucher de soleil avec des couleurs rouges, l’horizon s’étendant jusqu’à l’océan …
 <br />
 
-<img src="/assets/mafatelaclassique/couchersoleil.jpg" alt="couchersoleil" title="couchersoleil" width="50%" height="50%">
+<img src="/assets/mafatelaclassique/couchersoleil.jpeg" alt="couchersoleil" title="couchersoleil" width="50%" height="50%">
 
 
 <br />
@@ -72,7 +71,7 @@ Le repas de pâtes sur le dos, prêts à dévorer les montées !
 Premier stop à Ilet à Malheur, pour un jus d’orange frais, dans le jardin d’une mafataise.  
 <br />
 
-<img src="/assets/mafatelaclassique/jusdorange.jpg" alt="jusdorange" title="jusdorange" width="50%" height="50%">
+<img src="/assets/mafatelaclassique/jusdorange.jpeg" alt="jusdorange" title="jusdorange" width="50%" height="50%">
 
 <br />
 
@@ -83,7 +82,7 @@ C’est alors que commence la remontée, sans plus d’ilet pour de nouveaux arr
 Tout le long, les bibs, sur leur toile, observent les 3 amis. 
 <br />
 
-<img src="/assets/mafatelaclassique/bib.jpg" alt="bib" title="bib" width="50%" height="50%">
+<img src="/assets/mafatelaclassique/bib.png" alt="bib" title="bib" width="50%" height="50%">
 
 <br />
 Le sentier est long, en montée constante, les pauses régulières. A l’avant-dernière, le génocide des pompotes continue, Lama finit son sandwich bouchons, et il est temps d’entamer la dernière montée ! 500m sur 1km, c’est osé, mais c’est fait !!

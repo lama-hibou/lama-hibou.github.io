@@ -1,10 +1,8 @@
 ---
-title: Expériences aériennes
-date: 2023-07-26
+title: Canyoning Fleur Jaune
+date: 2023-07-23
 draft: true
 ---
-
-# Canyoning Fleur Jaune
 
 
 Au lever, le soleil, haut dans le ciel bleu, anuagé.  
@@ -20,7 +18,7 @@ Ce canyoning sera une succession de rappel de 18 à 55 mètres. Vertigineux.
 
 <br />
 
-<img src="/assets/canyon/canyon.jpg" alt="canyon" title="canyon" width="50%" height="50%">
+<img src="/assets/canyon/canyon.JPG" alt="canyon" title="canyon" width="50%" height="50%">
 
 <br />
 
@@ -32,7 +30,7 @@ L'espoir d'une belle journée s'échappe doucement des esprits.
 
 <br />
 
-<img src="/assets/canyon/nuages.jpg" alt="nuages" title="nuages" width="50%" height="50%">
+<img src="/assets/canyon/nuages.JPG" alt="nuages" title="nuages" width="50%" height="50%">
 
 <br />
 
@@ -43,7 +41,7 @@ Excités par les rappels, qui consistent à descendre le long des cascades succe
 
 <br />
 
-<img src="/assets/canyon/corde.jpg" alt="corde" title="corde" width="50%" height="50%">
+<img src="/assets/canyon/corde.JPG" alt="corde" title="corde" width="50%" height="50%">
 
 <br />
 

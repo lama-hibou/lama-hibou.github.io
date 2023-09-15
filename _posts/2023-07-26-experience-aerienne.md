@@ -4,8 +4,6 @@ date: 2023-07-26
 draft: true
 ---
 
-# Expérience aériennes
-
 
 A. est en recherche de sensations fortes ! Alors c’est parti.
 
@@ -22,7 +20,7 @@ La descente est autour d'un bon repas, le sourire au bec.
 
 <br />
 
-<img src="/assets/aerien/aerien.jpg" alt="aerien" title="aerien" width="50%" height="50%">
+<img src="/assets/aerien/aerien.JPG" alt="aerien" title="aerien" width="50%" height="50%">
 
 
 <br />
